@@ -1,4 +1,4 @@
-package test
+package objectandclass
 
 class Dog01(name_para:String, weight_para: Int, color_para: String) {
     val name = name_para.uppercase()
